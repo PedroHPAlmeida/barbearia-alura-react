@@ -1,0 +1,24 @@
+.menu {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 0 15px 0 0;
+    cursor: pointer;
+}
+
+.menu a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
