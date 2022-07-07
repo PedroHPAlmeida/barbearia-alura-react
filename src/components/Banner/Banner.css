@@ -1,0 +1,11 @@
+.banner {
+    background-color: #BBBBBB;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.banner img {
+    padding: 20px 0;
+}
