@@ -1,0 +1,19 @@
+.localization {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+    width: 100%;
+}
+
+.localization div {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.localization p {
+    text-align: center;
+}
+
+.map {
+    width: 940px;
+    margin: 0 auto;
+}
