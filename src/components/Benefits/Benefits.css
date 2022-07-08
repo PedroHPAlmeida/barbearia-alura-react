@@ -1,0 +1,21 @@
+.benefits {
+    padding: 3em 0;
+    background: #888888;
+    width: 100%;
+}
+
+.benefits div {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.benefits img {
+    width: 45%;
+    opacity: 1;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.benefits img:hover {
+    opacity: 0.80;
+    transition: 400ms;
+}
