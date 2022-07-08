@@ -1,0 +1,13 @@
+.list {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.list li {
+    line-height: 1.5;
+}
+
+.list li:first-child {
+    font-weight: bold;
+}
