@@ -5,9 +5,11 @@ const Banner = ({image, alt}) => {
     const menuItems = ['home', 'produtos', 'contatos']
 
     return (
-        <header className='banner'>
-            <img src={image} alt={alt}></img>
-            <Menu items={menuItems}/>
+        <header>
+            <div className='banner'>
+                <img src={image} alt={alt}></img>
+                <Menu items={menuItems}/>
+            </div>
         </header>
     );
 };
